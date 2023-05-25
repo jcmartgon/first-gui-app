@@ -2,7 +2,7 @@
 
 ## Problem Description
 
-This app was done followed [this](https://www.youtube.com/watch?v=mop6g-c5HEY&ab_channel=ClearCode) tutorial on tkinter.
+This app was done following [this](https://www.youtube.com/watch?v=mop6g-c5HEY&ab_channel=ClearCode) tutorial on tkinter.
 
 Simple app that takes a number from user, representing miles, and outputs it back as kilometers.
 
